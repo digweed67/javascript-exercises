@@ -14,6 +14,7 @@ function sumAll (minNum, maxNum) {
   return sum 
 }
 
+/* we have to check that is  a positive integer because -4 is also an integer) 
 /*const sumAll = function (min, max) {
     if (!Number.isInteger(min) || !Number.isInteger(max)) return "ERROR";
     if (min < 0 || max < 0) return "ERROR";
